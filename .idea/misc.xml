@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Elena/AndroidStudioProjects/TFMapp_v3/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.3384615384615385" />
+        <entry key="..\:/Users/Elena/AndroidStudioProjects/TFMapp_v3/app/src/main/res/drawable/ic_launcher_background.xml" value="0.3384615384615385" />
+        <entry key="..\:/Users/Elena/AndroidStudioProjects/TFMapp_v3/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.24739583333333334" />
+        <entry key="..\:/Users/Elena/AndroidStudioProjects/TFMapp_v3/app/src/main/res/layout/activity_final.xml" value="0.264" />
+        <entry key="..\:/Users/Elena/AndroidStudioProjects/TFMapp_v3/app/src/main/res/layout/activity_final_b.xml" value="0.264" />
+        <entry key="..\:/Users/Elena/AndroidStudioProjects/TFMapp_v3/app/src/main/res/layout/activity_instructions.xml" value="0.264" />
+        <entry key="..\:/Users/Elena/AndroidStudioProjects/TFMapp_v3/app/src/main/res/layout/activity_main.xml" value="0.4" />
+        <entry key="..\:/Users/Elena/AndroidStudioProjects/TFMapp_v3/app/src/main/res/layout/activity_question1.xml" value="0.4" />
+        <entry key="..\:/Users/Elena/AndroidStudioProjects/TFMapp_v3/app/src/main/res/layout/activity_text0.xml" value="0.176" />
+        <entry key="..\:/Users/Elena/AndroidStudioProjects/TFMapp_v3/app/src/main/res/layout/activity_text1.xml" value="0.264" />
+        <entry key="..\:/Users/Elena/AndroidStudioProjects/TFMapp_v3/app/src/main/res/layout/activity_text10.xml" value="0.3567708333333333" />
+        <entry key="..\:/Users/Elena/AndroidStudioProjects/TFMapp_v3/app/src/main/res/layout/activity_text2.xml" value="0.264" />
+        <entry key="..\:/Users/Elena/AndroidStudioProjects/TFMapp_v3/app/src/main/res/layout/activity_text3.xml" value="0.264" />
+        <entry key="..\:/Users/Elena/AndroidStudioProjects/TFMapp_v3/app/src/main/res/layout/activity_text4.xml" value="0.264" />
+        <entry key="..\:/Users/Elena/AndroidStudioProjects/TFMapp_v3/app/src/main/res/layout/activity_text5.xml" value="0.3453125" />
+        <entry key="..\:/Users/Elena/AndroidStudioProjects/TFMapp_v3/app/src/main/res/layout/activity_text6.xml" value="0.3453125" />
+        <entry key="..\:/Users/Elena/AndroidStudioProjects/TFMapp_v3/app/src/main/res/layout/activity_text7.xml" value="0.3453125" />
+        <entry key="..\:/Users/Elena/AndroidStudioProjects/TFMapp_v3/app/src/main/res/layout/activity_text8.xml" value="0.3453125" />
+        <entry key="..\:/Users/Elena/AndroidStudioProjects/TFMapp_v3/app/src/main/res/layout/activity_text9.xml" value="0.3567708333333333" />
+        <entry key="..\:/Users/Elena/AndroidStudioProjects/TFMapp_v3/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.23385416666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
